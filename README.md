@@ -1,2 +1,2 @@
 # Formulario
-### Formulári de cadastro personalizado da minha forma.
+### Formulário de cadastro personalizado da minha forma.
